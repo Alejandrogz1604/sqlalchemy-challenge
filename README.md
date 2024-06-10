@@ -1,1 +1,1 @@
-# sqlalchemy-challenge
+This repository SQL Alchemy queries on a Hawaii climate dataset. Through these queries, we are able to obtain data from the dataset to create visualizations that will allow us to further understand Hawaii´s climate, specifically pertaining to it´s temperature and precipitation. These queries are also used in this repository to design a python app. 
